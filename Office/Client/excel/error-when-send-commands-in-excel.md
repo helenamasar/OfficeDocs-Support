@@ -62,7 +62,9 @@ If these steps do not resolve the problem, go to Method 3.
 
 ### Method 3: Reset file associations
 
-To check whether the file associations in the system are performing correctly, reset the Excel file associations to their default settings. To do this, follow the steps for your operating system.Windows 10  
+To check whether the file associations in the system are performing correctly, reset the Excel file associations to their default settings. To do this, follow the steps for your operating system.
+
+**Windows 10**  
  
 1. Right-click the Excel workbook, point to **Open with**, and then click **More apps**.    
 2. Select the version of Excel you want to use to open this file type, such as **Excel 2016**.    
